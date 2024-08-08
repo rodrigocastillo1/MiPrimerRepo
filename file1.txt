@@ -1,5 +1,10 @@
-Hola mundo
-Adios mundo
+Cambios de desarrollo
+
+a = "Hola mundo"
+b = "Adios mundo"
+
+print a
+print b
 
 Añadiendo más texto
 Rodrigo Castillo
